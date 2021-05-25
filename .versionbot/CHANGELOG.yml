@@ -1,4 +1,19 @@
 - commits:
+    - subject: 'ui: Implement basic version of local UI for open fleets'
+      hash: a0d8c874f8efbc308d2098e834404a495fef0b44
+      body: ''
+      footer:
+        Closes: '#451'
+        closes: '#451'
+        Change-type: minor
+        change-type: minor
+        Signed-off-by: Tomás Migone <tomas@balena.io>
+        signed-off-by: Tomás Migone <tomas@balena.io>
+      author: Tomás Migone
+      nested: []
+  version: 3.6.0
+  date: 2021-05-25T21:29:10.233Z
+- commits:
     - subject: 'plugins: revamp plugins'
       hash: bee55fa4df039905987bccee57e2d306adf14216
       body: |
